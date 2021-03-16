@@ -1,5 +1,5 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=ImportMengjie&show_icons=true&line_height=24&count_private=true&theme=dark)
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImportMengjie&layout=compact&langs_count=8&hide=vim&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=ImportMengjie&show_icons=true&line_height=24&count_private=true&theme=vue&count_private=true)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImportMengjie&layout=compact&langs_count=10&theme=vue&count_private=true&exclude_repo=importmengjie.github.io)
 
 <!--
 **ImportMengjie/ImportMengjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
