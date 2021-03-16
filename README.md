@@ -1,4 +1,5 @@
-### Hi there 👋
+![github stats](https://github-readme-stats.vercel.app/api?username=ImportMengjie&show_icons=true&line_height=24&count_private=true&theme=dark)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ImportMengjie&layout=compact&langs_count=8&hide=vim&theme=dark)
 
 <!--
 **ImportMengjie/ImportMengjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
